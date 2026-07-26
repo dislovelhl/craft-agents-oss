@@ -14,7 +14,7 @@
     "validate": "bun run typecheck && bun run build"
   },
   "dependencies": {
-    "@mariozechner/pi-coding-agent": "0.72.1",
+    "@mariozechner/pi-coding-agent": "0.73.1",
     "@mariozechner/pi-agent-core": "0.72.1",
     "@mariozechner/pi-ai": "0.72.1",
     "duck-duck-scrape": "^2.2.7",
